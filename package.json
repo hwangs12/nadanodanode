@@ -10,5 +10,8 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "nodemon server.js"
+	},
+	"devDependencies": {
+		"dotenv": "^10.0.0"
 	}
 }
